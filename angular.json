@@ -148,5 +148,8 @@
       }
     }
   },
-  "defaultProject": "UnitTestANgular"
+  "defaultProject": "UnitTestANgular",
+  "cli": {
+    "analytics": "2c8b3fc9-8aab-499c-95c9-eaa406039529"
+  }
 }
